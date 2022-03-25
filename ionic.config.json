@@ -1,0 +1,8 @@
+{
+  "name": "Sopbank",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "f0e6bb12"
+}
